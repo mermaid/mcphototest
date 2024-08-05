@@ -9,8 +9,8 @@
 
 <channel>
 	<title>michelle &#8211; michelleholiman.com</title>
-	<atom:link href="/author/michelle/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/mcphototest/author/michelle/feed/" rel="self" type="application/rss+xml" />
+	<link>/mcphototest/</link>
 	<description></description>
 	<lastBuildDate>Sun, 21 Jan 2024 00:59:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Another blog post</title>
-		<link>/another-blog-post/</link>
+		<link>/mcphototest/another-blog-post/</link>
 		
 		<dc:creator><![CDATA[michelle]]></dc:creator>
 		<pubDate>Sun, 21 Jan 2024 00:11:57 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=49</guid>
+		<guid isPermaLink="false">/mcphototest/?p=49</guid>
 
 					<description><![CDATA[Wow!]]></description>
 										<content:encoded><![CDATA[
@@ -38,12 +38,12 @@
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
+		<link>/mcphototest/hello-world/</link>
 		
 		<dc:creator><![CDATA[michelle]]></dc:creator>
 		<pubDate>Sun, 17 Dec 2023 23:51:14 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">/mcphototest/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[

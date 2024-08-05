@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/hello-world/</link>
+	<atom:link href="/mcphototest/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/mcphototest/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Sun, 21 Jan 2024 00:59:22 +0000</lastBuildDate>
 	<sy:updatePeriod>

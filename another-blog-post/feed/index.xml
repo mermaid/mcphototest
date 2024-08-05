@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Another blog post	</title>
-	<atom:link href="/another-blog-post/feed/" rel="self" type="application/rss+xml" />
-	<link>/another-blog-post/</link>
+	<atom:link href="/mcphototest/another-blog-post/feed/" rel="self" type="application/rss+xml" />
+	<link>/mcphototest/another-blog-post/</link>
 	<description></description>
 	<lastBuildDate>Sun, 21 Jan 2024 00:59:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
